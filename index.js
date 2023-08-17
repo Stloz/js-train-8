@@ -140,7 +140,6 @@ function getElementAtIndex(arr, index) {
   // Отримуємо елемент з масиву за заданим індексом
   // Повертаємо отриманий елемент
   // Якщо індекс виходить за межі масиву,повертаємо undefined
-  return arr.at(index);
 }
 
 // Приклад використання функції getElementAtIndex
